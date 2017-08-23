@@ -1,4 +1,6 @@
-# react-mailchimp-subscribe
+# react-mailchimp-subscribe ScrantonHacks fork
+
+## made to have a break between the button and input field
 
 [![npm package][npm-badge]][npm]
 

@@ -62,6 +62,7 @@ class SubscribeForm extends React.Component {
               required={true}
               placeholder={messages.inputPlaceholder}
             />
+            <br />
             <button
               disabled={this.state.status === "sending" || this.state.status === "success"}
               onClick={this.onSubmit}
